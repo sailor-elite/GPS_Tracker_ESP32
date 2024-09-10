@@ -3,3 +3,8 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.vscode/extensions.json
+Block_diagram.jpg
+Block_Diagram.vsdx
+Diagram_BLOCK.pdf
+platformio.ini
