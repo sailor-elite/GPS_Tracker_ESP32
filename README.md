@@ -11,5 +11,5 @@ Main purpose of this project is to create Redundant NMEA Distribution System usi
 # General Schematic of the system
 ![Schematic](Block_Diagram.jpg)
 
-#PCB Layout of TTL Signal Isolation board
+# PCB Layout of TTL Signal Isolation board
 ![PCB_LAYOUT](opt_iso_board.jpg)
