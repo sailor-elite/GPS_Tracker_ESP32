@@ -1,11 +1,13 @@
 
-This directory is intended for PlatformIO Test Runner and project tests.
+# ESP 32 GPS Tracker with TTL Signal Isolation  
 
-Unit Testing is a software testing method by which individual units of
-source code, sets of one or more MCU program modules together with associated
-control data, usage procedures, and operating procedures, are tested to
-determine whether they are fit for use. Unit testing finds problems early
-in the development cycle.
+Main purpose of this project is to create Redundant NMEA Distribution System using ESP 32, RS 422 to TTL converter and TTL Signal Isolation board. 
 
-More information about PlatformIO Unit Testing:
-- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+# Components
+
+- 6x ESP32 S3 N16R8 DevKitC-1 16MB Flash 8MB PSRAM 2 x USB C
+- 2x GPS GY-NEO6MV2 NEO-6M 
+- 4x LCD TFT 2.4 " Touch Display
+
+# General Schematic of the system
+![Schematic](Block_Diagram.jpg)
